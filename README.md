@@ -6,4 +6,4 @@
 * :watch: [Relógio Analógico em Flash](https://rawgit.com/fdaciuk/nostalgia/master/flash/relogio-analogico.swf) (muuuuito AS2 :stuck_out_tongue_winking_eye:)
 * :bomb: [Bomba em Flash](https://rawgit.com/fdaciuk/nostalgia/master/flash/bomba.swf)
 * :tennis: [Tênis de mesa em Flash](https://rawgit.com/fdaciuk/nostalgia/master/flash/tenis-de-mesa.swf)
-* :waxing_crescent_moon: [Lua em Flash](https://rawgit.com/fdaciuk/nostalgia/master/flash/tenis-de-mesa.swf)
+* :waxing_crescent_moon: [Lua em Flash](https://rawgit.com/fdaciuk/nostalgia/master/flash/lua.swf)
