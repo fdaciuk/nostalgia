@@ -7,4 +7,4 @@
 * :bomb: [Bomba em Flash](https://rawgit.com/fdaciuk/nostalgia/master/flash/bomba.swf)
 * :tennis: [Tênis de mesa em Flash](https://rawgit.com/fdaciuk/nostalgia/master/flash/tenis-de-mesa.swf)
 * :waxing_crescent_moon: [Lua em Flash](https://rawgit.com/fdaciuk/nostalgia/master/flash/lua.swf)
-* :closed_lock_with_key: [Autenticação com senha em Flash](https://rawgit.com/fdaciuk/nostalgia/master/flash/senha.swf)
+* :closed_lock_with_key: [Autenticação com senha em Flash - (abc123)](https://rawgit.com/fdaciuk/nostalgia/master/flash/senha.swf)
