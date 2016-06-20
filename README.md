@@ -8,3 +8,4 @@
 * :tennis: [Tênis de mesa em Flash](https://rawgit.com/fdaciuk/nostalgia/master/flash/tenis-de-mesa.swf)
 * :waxing_crescent_moon: [Lua em Flash](https://rawgit.com/fdaciuk/nostalgia/master/flash/lua.swf)
 * :closed_lock_with_key: [Autenticação com senha em Flash - (muito seguro: abc123)](https://rawgit.com/fdaciuk/nostalgia/master/flash/senha.swf)
+* :shit: [Autenticação com senha em Flash - (mais seguro ainda: basta reproduzir o arquivo (botão direito > reproduzir))](https://rawgit.com/fdaciuk/nostalgia/master/flash/senotron.swf)
